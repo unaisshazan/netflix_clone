@@ -7,7 +7,7 @@ This project was inpired in Netflix interface and was reproduced for study purpo
 
 Follow these steps
 
-* `git clone https://github.com/marquesm91/react-netflix`
+* `git clone https://github.com/unaisshazan/netflix_clone`
 * `npm install` or `yarn`
 * `npm run start` or `yarn start`
 
